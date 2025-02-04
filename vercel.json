@@ -1,6 +1,5 @@
 {
   "routes": [
     { "src": "/(.*)", "dest": "/try.html" }
-  ],
-  "cleanUrls": true
+  ]
 }
